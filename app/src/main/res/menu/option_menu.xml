@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/infousuario"
+        android:fontFamily="@font/fredoka_one"
+        android:title="info@gmail.com"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/btnProductList"
+        android:fontFamily="@font/fredoka_one"
+        android:title="Product List"
+        app:showAsAction="collapseActionView" />
+</menu>

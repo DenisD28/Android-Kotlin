@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">shopping-cart</string>
+
+    <string-array name="options">
+        <item></item>
+        <!--        <item>frutas</item>-->
+        <!--        <item>vegetales</item>-->
+        <!--        <item>higiene</item>-->
+        <!--        <item>refrescos</item>-->
+        <!--        <item>alcohol</item>-->
+        <item>laptops</item>
+        <item>smartphones</item>
+        <item>fragrances</item>
+        <item>skincare</item>
+        <item>groceries</item>
+        <item>home-decoration</item>
+        <item>furniture</item>
+        <item>tops</item>
+        <item>womens-dresses</item>
+        <item>womens-shoes</item>
+        <item>mens-shirts</item>
+        <item>mens-shoes</item>
+        <item>mens-watches</item>
+        <item>womens-watches</item>
+        <item>womens-bags</item>
+        <item>womens-jewellery</item>
+        <item>sunglasses</item>
+        <item>automotive</item>
+        <item>motorcycle</item>
+        <item>lighting</item>
+    </string-array>
+
+</resources>
